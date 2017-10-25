@@ -1,5 +1,5 @@
 # fussballde-matchplan-url-builder
-builds urls for the fussball.de match plan
+builds urls for the (fussball.de) match plan
 
 # Install
 ```bash
@@ -27,7 +27,7 @@ const options = {
                                // 8 = cup matches, 9 = special selection matches, 11 = Futsal league
 }
 
-// instatiate the builder with otional options
+// instatiate the builder with optional options
 const MatchplanUrlBuilder = new builder.MatchplanUrlBuilder('011MIF06DC000000VTVG0001VTR8C1K7', options)
 const matchplanUrl = MatchplanUrlBuilder.buildUrl()
 console.log(matchplanUrl)
