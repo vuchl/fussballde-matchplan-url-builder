@@ -1,5 +1,5 @@
 # fussballde-matchplan-url-builder
-builds urls for the (fussball.de) match plan
+builds urls for the (https://fussball.de) match plan
 
 # Install
 ```bash
