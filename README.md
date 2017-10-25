@@ -1,6 +1,11 @@
 # fussballde-matchplan-url-builder
 builds urls for the fussball.de match plan
 
+# Install
+```bash
+npm install --save fussballde-matchplan-url-builder
+```
+
 # Usage
 ```javascript
 const builder = require('fussballde-matchplan-url-builder')
